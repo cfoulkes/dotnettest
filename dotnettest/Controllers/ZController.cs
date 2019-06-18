@@ -1,6 +1,6 @@
 namespace dotnettest.Controllers
 {
-    public class XController
+    public class ZController
     {
         
     }
