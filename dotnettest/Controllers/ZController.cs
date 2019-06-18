@@ -1,6 +1,7 @@
+using Microsoft.AspNetCore.Mvc;
 namespace dotnettest.Controllers
 {
-    public class ZController
+    public class ZController : ControllerBase
     {
         
     }
